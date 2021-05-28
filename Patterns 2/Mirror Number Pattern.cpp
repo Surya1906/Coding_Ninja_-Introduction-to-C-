@@ -1,6 +1,6 @@
 /* 
 Code : Mirror Number Pattern
-Send Feedback
+
 Print the following pattern for the given N number of rows.
 Pattern for N = 4
    1
@@ -17,15 +17,15 @@ Sample Input 1:
 3
 Sample Output 1:
       1 
-    12
-  123
+     12
+    123
 Sample Input 2:
 4
 Sample Output 2:
       1 
-    12
-  123
-1234
+     12
+    123
+   1234
 */
 
 #include<iostream>
